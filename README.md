@@ -50,11 +50,11 @@ Connection:
 
 ![Hercules connection](images/Hercules_1.png)
 
-Command execution (sample commands below); notice the HEX checkmark:
+Command execution (more commands below the picture); notice the HEX checkmark. Sent command is shown as characters in purple and response in blue.
 
 ![Hercules command](images/Hercules_2.png)
 
-Sample commands below, notice that the first one is a broadcast and as such a good way for checking that the connection works. Sent command is shown as characters in purple and response in blue.
+Sample commands, notice that the first one is a broadcast and as such a good way for checking that the connection works:
 
 | Command | Hex bytes |
 | --- | --- |
