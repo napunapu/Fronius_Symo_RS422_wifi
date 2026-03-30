@@ -46,6 +46,16 @@ These are not needed, but are connected on the Fronius end, so tape or cover the
 
 Hercules: <https://www.hw-group.com/software/hercules-setup-utility>
 
+Connection:
+
+![Hercules connection](images/Hercules_1.png)
+
+Command execution (sample commands below); notice the HEX checkmark:
+
+![Hercules command](images/Hercules_2.png)
+
+Sample commands below, notice that the first one is a broadcast and as such a good way for checking that the connection works. Sent command is shown as characters in purple and response in blue.
+
 | Command | Hex bytes |
 | --- | --- |
 | Get version (broadcast) | `80 80 80 00 00 00 01 01` |
